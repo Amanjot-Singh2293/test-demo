@@ -1,4 +1,4 @@
 # test-demo
 this my first git repository
 <BR>
-Author-Amanjot Singh
+Author-Amanjot Singh (Trail)
